@@ -3,7 +3,7 @@ DOI: 10.5281/zenodo.3240447
 
 Public code for the paper: 
 
-Muscinelli, S.P., Gerstner, W. and Schwalger, T. Single neuron properties shape chaotic dynamics in random neural networks ArXiv pre-print:1812.06925v2 (2018).
+Muscinelli, S.P., Gerstner, W. and Schwalger, T. Single neuron properties shape chaotic dynamics in random neural networks PLOS Computational Biology 15 (6), e1007122
 
 Requirements
 - Julia 0.7
