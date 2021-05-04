@@ -5,13 +5,13 @@ using MultivariateStats
 #import PyPlot.plot
 using DSP
 using StatsBase
-using Optim
+# using Optim
 using JLD
 try
 	using QuadGK
 catch
 end
-using AbstractFFTs
+using FFTW
 using SpecialFunctions
 
 include("power_spectrum.jl")

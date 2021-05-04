@@ -5,7 +5,7 @@ using MultivariateStats
 #import PyPlot.plot
 using DSP
 using StatsBase
-using Optim
+# using Optim
 using JLD
 using SparseArrays
 using LinearAlgebra
